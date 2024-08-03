@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title('Data Display with Streamlit')
+st.title('Automation Patch')
 
 # File uploader
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
